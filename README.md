@@ -1,4 +1,4 @@
-# Divya Kanani 👋
+# Divya Kanani 
 
 ## 📌 About Me
 Health Data Analyst combining an advanced background in Microbiology with graduate-level Health Data Science training from **UTHealth Houston**. Experienced in translating complex Electronic Health Record (EHR) and healthcare datasets into actionable clinical, operational, and population health insights. Proven track record in querying relational databases using advanced SQL, building statistical models in Python, and engineering interactive Tableau executive dashboards to optimize clinical throughput, mitigate care attrition, and identify public health coverage disparities.
