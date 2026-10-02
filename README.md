@@ -1,8 +1,4 @@
-# Hi, I'm Divya Kanani 👋
-### Health Data Analyst | SQL • Python • Tableau • Clinical Informatics
-**Katy, TX** • [LinkedIn](https://www.linkedin.com/in/divya-kanani-164401295) • [GitHub](https://github.com/divyadhorajiya) • [Tableau Public](https://public.tableau.com) • [Email](mailto:divyadhorajiya1860@gmail.com)
-
----
+# Divya Kanani 👋
 
 ## 📌 About Me
 Health Data Analyst combining an advanced background in Microbiology with graduate-level Health Data Science training from **UTHealth Houston**. Experienced in translating complex Electronic Health Record (EHR) and healthcare datasets into actionable clinical, operational, and population health insights. Proven track record in querying relational databases using advanced SQL, building statistical models in Python, and engineering interactive Tableau executive dashboards to optimize clinical throughput, mitigate care attrition, and identify public health coverage disparities.
