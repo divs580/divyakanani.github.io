@@ -80,6 +80,6 @@ Health Data Analyst combining an advanced background in Microbiology with gradua
 ## 📬 Connect With Me
 * **LinkedIn:** [linkedin.com/in/divya-kanani-164401295](https://www.linkedin.com/in/divya-kanani-164401295)
 * **Email:** [divyadhorajiya1860@gmail.com](mailto:divyadhorajiya1860@gmail.com)
-* **GitHub:** [github.com/divyadhorajiya]([https://github.com/divyadhorajiya](https://divs580.github.io/divyakanani.github.io/))
+* **GitHub:** [github.com/divyadhorajiya](https://divs580.github.io/divyakanani.github.io/))
 * **Tableau Public:** [public.tableau.com](https://public.tableau.com)
 
