@@ -2,20 +2,19 @@
 
 ---
 
-## 📌 About Me
+## 📌 Professional Summary
 Health Data Analyst combining an advanced background in Microbiology with graduate-level Health Data Science training from UTHealth Houston. Proficient in SQL, Python, and Tableau, with demonstrated expertise in clinical data cleaning, statistical analysis, and interactive dashboard development. Experienced in translating complex Electronic Health Record (EHR) and healthcare datasets into actionable operational and population health insights.
 
 ---
 
-## 🛠️ Technical Competencies
+## 🛠️ Core Competencies & Technical Skills
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
-| **Querying & Databases** | SQL (PostgreSQL, MySQL), Window Functions (AVG() OVER, DENSE_RANK), Common Table Expressions (CTEs), Schema DDL & Integrity Constraints |
-| **Programming & Data Science** | Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), Linear Regression, K-Means Clustering, Exploratory Data Analysis (EDA) |
-| **BI & Data Visualization** | Tableau Desktop/Public, Dual-Axis Visualizations, Capacity Heatmaps, Interactive Multi-Parameter Filtering |
-| **Healthcare & Clinical Operations** | Clinical Throughput, Emergency Severity Index (ESI Triage 1–5), Length of Stay (LOS), Left Against Medical Advice (AMA) Root-Cause Modeling, 30-Day Readmission Risk, Medical Microbiology |
-
+| **Querying & Databases** | SQL (PostgreSQL, MySQL), Window Functions (`AVG() OVER`, `DENSE_RANK`), Common Table Expressions (CTEs), Schema DDL & Constraints[span_3](start_span)[span_3](end_span) |
+| **Programming & Statistical Modeling** | Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), Linear Regression, K-Means Clustering, Exploratory Data Analysis (EDA)[span_4](start_span)[span_4](end_span) |
+| **Business Intelligence & Dashboards** | Tableau Desktop/Public, Dual-Axis Visualizations, Capacity Heatmaps, Interactive Multi-Parameter Filtering[span_5](start_span)[span_5](end_span) |
+| **Healthcare & Domain Expertise** | Clinical Throughput, Triage Acuity Workflows (ESI 1–5), Length of Stay (LOS), Left AMA Modeling, 30-Day Readmission Risk, Medical Microbiology[span_6](start_span)[span_6](end_span) |
 ---
 
 ## 🚀 Featured Healthcare Analytics Projects
