@@ -1,6 +1,4 @@
-# Hi, I'm Divya Kanani 👋
-### Health Data Analyst | SQL • Python • Tableau • Clinical Informatics
-**Katy, TX** • [LinkedIn](https://www.linkedin.com/in/divya-kanani-164401295) • [GitHub](https://github.com/divyadhorajiya) • [Tableau Public](https://public.tableau.com) • [Email](mailto:divyadhorajiya1860@gmail.com)
+# Divya Kanani 
 
 ---
 
