@@ -2,6 +2,7 @@
 
 ---
 
+
 ## 📌 Professional Summary
 Health Data Analyst combining an advanced background in Microbiology with graduate-level Health Data Science training from **UTHealth Houston**. Proficient in SQL, Python, and Tableau, with demonstrated expertise in clinical data cleaning, statistical analysis, and interactive dashboard development. Experienced in translating complex Electronic Health Record (EHR) and healthcare datasets into actionable operational and population health insights.
 
