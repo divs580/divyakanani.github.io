@@ -11,10 +11,10 @@ Health Data Analyst combining an advanced background in Microbiology with gradua
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
-| **Querying & Databases** | SQL (PostgreSQL, MySQL), Window Functions (`AVG() OVER`, `DENSE_RANK`), Common Table Expressions (CTEs), Schema DDL & Constraints[span_3](start_span)[span_3](end_span) |
-| **Programming & Statistical Modeling** | Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), Linear Regression, K-Means Clustering, Exploratory Data Analysis (EDA)[span_4](start_span)[span_4](end_span) |
-| **Business Intelligence & Dashboards** | Tableau Desktop/Public, Dual-Axis Visualizations, Capacity Heatmaps, Interactive Multi-Parameter Filtering[span_5](start_span)[span_5](end_span) |
-| **Healthcare & Domain Expertise** | Clinical Throughput, Triage Acuity Workflows (ESI 1–5), Length of Stay (LOS), Left AMA Modeling, 30-Day Readmission Risk, Medical Microbiology[span_6](start_span)[span_6](end_span) |
+| **Querying & Databases** | SQL (PostgreSQL, MySQL), Window Functions (`AVG() OVER`, `DENSE_RANK`), Common Table Expressions (CTEs), Schema DDL & Constraints[3](start_span)[3](end_span) |
+| **Programming & Statistical Modeling** | Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), Linear Regression, K-Means Clustering, Exploratory Data Analysis (EDA)[4](start_span)[4](end_span) |
+| **Business Intelligence & Dashboards** | Tableau Desktop/Public, Dual-Axis Visualizations, Capacity Heatmaps, Interactive Multi-Parameter Filtering[5](start_span)[5](end_span) |
+| **Healthcare & Domain Expertise** | Clinical Throughput, Triage Acuity Workflows (ESI 1–5), Length of Stay (LOS), Left AMA Modeling, 30-Day Readmission Risk, Medical Microbiology[6](start_span)[6](end_span) |
 ---
 
 ## 🚀 Featured Healthcare Analytics Projects
