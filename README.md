@@ -30,8 +30,7 @@ Health Data Analyst combining an advanced background in Microbiology with gradua
   * Isolated walkout drivers (**5.41% AMA rate; 541 cases**), uncovering that **16.27% of walkout encounters endured waits > 120 minutes** before leaving.
   * Engineered a 5-panel Tableau executive dashboard mapping peak arrival surges (**14:00–20:00; >600 arrivals/hr**) to recommend an NP/PA-led Fast-Track unit for low-acuity cases and an automated 90-minute EHR wait-time notification alert.
 * **Deliverables:** [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/divya.kanani/viz/Ed_dashboard/Dashboard1)
- • [Executive Report (PDF)](https://github.com/divs580/er-patient-flow-analytics/blob/main/ed_analysis_report.pdf) • [SQL Scripts](https://github.com/divyadhorajiya/er-patient-flow-analytics/tree/main/sql) • [Case Study README](https://github.com/divs580/er-patient-flow-analytics/blob/main/README.md)
-
+ • [Executive Report (PDF)](https://github.com/divs580/er-patient-flow-analytics/blob/main/ed_analysis_report.pdf) • [SQL Scripts](https://github.com/divs580/er-patient-flow-analytics/blob/main/sql/02_analysis_queries.sql) • [Case Study README](https://github.com/divs580/er-patient-flow-analytics/blob/main/README.md)
 ---
 
 ### 👵 2. [Identifying Key Healthcare Assistance Needs for Older Adults in Maryland](https://github.com/divyadhorajiya/maryland-elderly-healthcare-needs)
