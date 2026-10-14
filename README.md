@@ -21,7 +21,7 @@ Health Data Analyst combining an advanced background in Microbiology with gradua
 
 ## 🚀 Featured Health Data Analytics Projects
 
-### 🏥 1. [Emergency Department Operational Flow & Capacity Optimization](https://github.com/divyadhorajiya/er-patient-flow-analytics)
+### 🏥 1. [Emergency Department Operational Flow & Capacity Optimization](https://github.com/divs580/er-patient-flow-analytics)
 * **Tech Stack:** SQL, Python, Tableau
 * **Project Overview:** Built an end-to-end operational analytics pipeline analyzing throughput, triage flow, and revenue across **10,000 ED visits** ($44.68M billed gross revenue).
 * **Key Achievements & Insights:**
