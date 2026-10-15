@@ -43,6 +43,18 @@ Health Data Analyst combining an advanced background in Microbiology with gradua
 
 ---
 
+## 💼 Professional Experience
+
+**Science Teacher** | *Gajera International School — Surat, India* *(Sept 2021 – Dec 2022)*
+* Designed and delivered structured STEM curricula and laboratory experiments adhering strictly to scientific safety protocols.
+* Tracked, evaluated, and documented student academic performance data to identify learning gaps and adjust instructional methodologies.
+
+**Mathematics Teacher** | *Mauni International School — Surat, India* *(June 2019 – March 2020)*
+* Managed and instructed cohorts of 50+ students in foundational mathematics, maintaining high engagement through quantitative exercises.
+* Monitored and analyzed periodic assessment metrics to evaluate skill mastery and provide progress reports to academic leadership.
+
+___
+
 ## 🎓 Education
 
 * **Graduate Certificate in Health Data Science** • *May 2025*  
