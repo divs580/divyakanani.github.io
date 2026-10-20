@@ -33,7 +33,7 @@ Health Data Analyst combining an advanced background in Microbiology with gradua
 ---
 
 ### 👵 2. [Identifying Key Healthcare Assistance Needs for Older Adults in Maryland](https://github.com/divyadhorajiya/maryland-elderly-healthcare-needs)
-* **Tech Stack:** Python, Unsupervised Machine Learning (K-Means), Tableau
+* **Tech Stack:** Python, Unsupervised Machine Learning (K-Means)
 * **Project Overview:** Analyzed clinical, demographic, and financial disparities across **53,000+ patient records (73.6% aged 65+)** to guide state public health budget allocation.
 * **Key Achievements & Insights:**
   * Discovered that insurance covered only **1%–4%** of the **$1.27M average elderly healthcare expense**, with the largest coverage deficit concentrated among adults aged **90–94**.
