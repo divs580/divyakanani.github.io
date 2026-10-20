@@ -29,7 +29,7 @@ Health Data Analyst combining an advanced background in Microbiology with gradua
   * Isolated walkout drivers (**5.41% AMA rate; 541 cases**), uncovering that **16.27% of walkout encounters endured waits > 120 minutes** before leaving.
   * Engineered a 5-panel Tableau executive dashboard mapping peak arrival surges (**14:00–20:00; >600 arrivals/hr**) to recommend an NP/PA-led Fast-Track unit for low-acuity cases and an automated 90-minute EHR wait-time notification alert.
 * **Deliverables:** [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/divya.kanani/viz/Ed_dashboard/Dashboard1)
- • [Executive Report (PDF)](https://github.com/divs580/er-patient-flow-analytics/blob/main/ed_analysis_report.pdf) • [SQL Scripts](https://github.com/divs580/er-patient-flow-analytics/blob/main/sql/02_analysis_queries.sql) • [Case Study README](https://github.com/divs580/er-patient-flow-analytics/blob/main/README.md)
+ • [Executive Report(PDF)](https://github.com/divs580/er-patient-flow-analytics/blob/main/ed_analysis_report.pdf) • [SQL Scripts](https://github.com/divs580/er-patient-flow-analytics/blob/main/sql/02_analysis_queries.sql) • [Case Study README](https://github.com/divs580/er-patient-flow-analytics/blob/main/README.md)
 ---
 
 ### 👵 2. [Identifying Key Healthcare Assistance Needs for Older Adults in Maryland](https://github.com/divyadhorajiya/maryland-elderly-healthcare-needs)
@@ -39,7 +39,7 @@ Health Data Analyst combining an advanced background in Microbiology with gradua
   * Discovered that insurance covered only **1%–4%** of the **$1.27M average elderly healthcare expense**, with the largest coverage deficit concentrated among adults aged **90–94**.
   * Applied **K-Means clustering** to segment older adults into **4 distinct risk tiers**, isolating high-expense cohorts in need of subsidized prescription assistance programs.
   * Mapped county-level geographic disparities across **Charles, Queen Anne's, and Howard counties** to recommend targeted mobile health clinics and community support networks.
-* **Deliverables:** [Executive Report(PDF)] (https://github.com/divs580/maryland-elderly-healthcare-needs/tree/main/healthcare_need_analysis_report.pdf) • [Jupyter Analysis Notebooks](https://github.com/divs580/maryland-elderly-healthcare-needs/tree/main/healthcare_need_analysis.ipynb) • [Case Study README] (https://github.com/divs580/maryland-elderly-healthcare-needs/blob/main/README.md)
+* **Deliverables:** [Executive Report(PDF)](https://github.com/divs580/maryland-elderly-healthcare-needs/tree/main/healthcare_need_analysis_report.pdf) • [Jupyter Analysis Notebook](https://github.com/divs580/maryland-elderly-healthcare-needs/tree/main/healthcare_need_analysis.ipynb) • [Case Study README] (https://github.com/divs580/maryland-elderly-healthcare-needs/blob/main/README.md)
 
 ---
 
