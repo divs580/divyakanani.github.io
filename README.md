@@ -32,7 +32,7 @@ Health Data Analyst combining an advanced background in Microbiology with gradua
  • [Executive Report(PDF)](https://github.com/divs580/er-patient-flow-analytics/blob/main/ed_analysis_report.pdf) • [SQL Scripts](https://github.com/divs580/er-patient-flow-analytics/blob/main/sql/02_analysis_queries.sql) • [Case Study README](https://github.com/divs580/er-patient-flow-analytics/blob/main/README.md)
 ---
 
-### 👵 2. [Identifying Key Healthcare Assistance Needs for Older Adults in Maryland](https://github.com/divyadhorajiya/maryland-elderly-healthcare-needs)
+### 👵 2. [Identifying Key Healthcare Assistance Needs for Older Adults in Maryland]( https://github.com/divs580/maryland-elderly-healthcare-needs)
 * **Tech Stack:** Python, Unsupervised Machine Learning (K-Means)
 * **Project Overview:** Analyzed clinical, demographic, and financial disparities across **53,000+ patient records (73.6% aged 65+)** to guide state public health budget allocation.
 * **Key Achievements & Insights:**
