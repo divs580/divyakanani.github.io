@@ -39,7 +39,7 @@ Health Data Analyst combining an advanced background in Microbiology with gradua
   * Discovered that insurance covered only **1%–4%** of the **$1.27M average elderly healthcare expense**, with the largest coverage deficit concentrated among adults aged **90–94**.
   * Applied **K-Means clustering** to segment older adults into **4 distinct risk tiers**, isolating high-expense cohorts in need of subsidized prescription assistance programs.
   * Mapped county-level geographic disparities across **Charles, Queen Anne's, and Howard counties** to recommend targeted mobile health clinics and community support networks.
-* **Deliverables:** [Executive Report(PDF)](https://github.com/divs580/maryland-elderly-healthcare-needs/tree/main/healthcare_need_analysis_report.pdf) • [Jupyter Analysis Notebook](https://github.com/divs580/maryland-elderly-healthcare-needs/tree/main/healthcare_need_analysis.ipynb) • [Case Study README] (https://github.com/divs580/maryland-elderly-healthcare-needs/blob/main/README.md)
+* **Deliverables:** [Executive Report(PDF)](https://github.com/divs580/maryland-elderly-healthcare-needs/blob/main/healthcare_need_analysis_report.pdf) • [Jupyter Analysis Notebook](https://github.com/divs580/maryland-elderly-healthcare-needs/blob/main/healthcare_need_analysis.ipynb) • [Case Study README](https://github.com/divs580/maryland-elderly-healthcare-needs)
 
 ---
 
